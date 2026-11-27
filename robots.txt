@@ -1,0 +1,10 @@
+# robots.txt for TUMBLEY & MUGLEY website
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://tumbleymugley.com/sitemap.xml
+
+# Note: Domain: tumbleymugley.com
+# 
